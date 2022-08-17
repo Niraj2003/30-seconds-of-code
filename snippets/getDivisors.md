@@ -39,6 +39,6 @@ const divisors = (n) =>
 ```
 
 ```js
-divisor(10)  // 1 2 5 10 
-divisor(30)  // 1 2 3 5 6 10 15 303
+divisors(10)  // 1 2 5 10 
+divisors(30)  // 1 2 3 5 6 10 15 303
 ```
